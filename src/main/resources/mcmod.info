@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lumod",
+  "name": "LEGO Universe Mod",
+  "description": "Forge mod by Miclebrick that has things from LEGO Universe :P",
+  "version": "0.0.1",
+  "mcversion": "0.0.1",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Miclebrick"],
+  "credits": "LEGOUni-Craft, teh besterest LU MC project(Server IP is luc.beastnode.net), and mwah, Miclebrick",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
