@@ -94,5 +94,6 @@ public class Main {
         			('D'), Items.diamond, ('W'), Items.water_bucket, ('G'), Items.glowstone_dust});
         	GameRegistry.addShapedRecipe(new ItemStack(imPick), new Object[]{"III", " S ", " S ",
         			('I'), imOrb, ('S'), Items.stick});
+        			//The sword isn't there for a reason. Since it does 16 damage, I want to make it even harder to make than the pickaxe. It'll probably require more than a stick and Imagination Orbs.
         }
 }
